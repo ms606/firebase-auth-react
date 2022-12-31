@@ -18,7 +18,7 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCK8TkA6GtJxhNE1aB7JHQ-HAM0-ma0JzY",
+    apiKey: "",
     authDomain: "polkahrms.firebaseapp.com",
     projectId: "polkahrms",
     storageBucket: "polkahrms.appspot.com",
